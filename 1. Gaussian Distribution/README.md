@@ -3,7 +3,7 @@
 
 The probability density for the Gaussian distribution is
 ![GitHub Logo](https://docs.scipy.org/doc/numpy/_images/math/192d06ecdfd9d671a4ab4dd942ddf8e20173e111.svg)
-Format: ![Alt Text](url)
+
 
 where \mu is the mean and \sigma the standard deviation. The square of the standard deviation, \sigma^2, is called the variance.
 
